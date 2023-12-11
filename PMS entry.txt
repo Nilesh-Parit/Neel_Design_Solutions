@@ -72,15 +72,19 @@ Academy  project :
 
 	select qualification : PG-DAC
 
-desc : The system aims to provide parents with a comprehensive platform for managing their child's health, including vaccination scheduling, online consultations, diet planning,information about different disease and online consultation.It includes various features like vaccination slot booking (Parents can schedule vaccination appointments for their children through the online platform) ,reminders,online consulting,health records (Parents and healthcare providers can access and update health records as needed),user-friendly interface, Diet Plan Management.
+desc : The web-application aims to create a user-friendly platform where individuals can share, discover and organise recepies as well as customise their diet plan. Users will also have ability to plan their meal for the day or a week, generate shopping lists on selected recipes, and get nutritional information.
 
 PassPort Number: X6295637
+	validity :
 
 Work Experience:
+	1) 
 
 Hobbies : Reading (Marathi Literature)
 	  Painting (Pencil Sketches)
 	  Swimming
+	  Making creative things from waste
+	
 	  
 
 Extra curricular Activities:
