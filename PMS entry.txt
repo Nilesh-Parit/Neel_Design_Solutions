@@ -17,13 +17,14 @@ address pune : flat no. MIG-29/685, nilJyoti society, near ganesh-maruti temple 
 permenant : a/p Murgud tal. Kagal, dist. Kolhapur, state. Maharashtra, 416219
 
 10th : 
-Specialization : General
-Board : Maharashtra State Board
-total marks : 500
-obtained marks : 464
-percentage 92.80
-year of passing: 17 June 2014
-School : Murgud Vidyalay Murgud, Kolhapur.
+	Specialization : General
+	Board : Maharashtra State Board
+	total marks : 500
+	obtained marks : 464
+	percentage 92.80
+	year of passing: 17 June 2014
+	Grade : Distinction
+	School : Murgud Vidyalay Murgud, Kolhapur.
 
 Diploma :
 	Institute of Civil and Rural Engineering
@@ -33,12 +34,13 @@ Diploma :
 	attempts : 1
 
 	sem 1 : 570/650   87.69 first+dist
-	sem 2 : 574/750   76.53 first+dist
+	sem 2 : 574/750   76.53 first+dist       First Year : 82.11
 	sem 3 : 637/850   75.00 first+dist
-	sem 4 : 682/900   75.78 first+dist
+	sem 4 : 682/900   75.78 first+dist       Second Year : 75.39
 	sem 5 : 740/850   87.06 first+dist
-	sem 6 : 722/850   84.94 first+dist
-	aggregate 3rd year 1462/1700  86.00 first+dist
+	sem 6 : 722/850   84.94 first+dist	 Third Year : 86.00
+
+	aggregate 3rd year 	1462/1700  	86.00 first+dist
 
 Degree :
 	year of admission : 2018
@@ -52,11 +54,11 @@ Degree :
 
 	marks : 
 		sem 3 : 663/1000   66.3%   7.38 SGPA
-		sem 4 : 860/1100   78.2%   8.57 SGPA   7.98 CGPA
-		sem 5 : 765/1000   76.5%   8.4 SGPA    
-		sem 6 : 902/1100   82.0%   8.95 SGPA   8.33 CGPA
+		sem 4 : 860/1100   78.2%   8.57 SGPA   7.98 CGPA   72.3 %
+		sem 5 : 765/1000   76.5%   8.40 SGPA    
+		sem 6 : 902/1100   82.0%   8.95 SGPA   8.33 CGPA   75.8 %
 		sem 7 : 800/900    88.90%  9.64 SGPA 
-		sem 8 : 623/700    89.00%  9.65 SGPA   8.77 CGPA
+		sem 8 : 623/700    89.00%  9.65 SGPA   8.77 CGPA    80.20%
 
 		Aggregate:   CGPA 8.77    80.20%
 
