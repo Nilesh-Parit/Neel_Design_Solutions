@@ -65,11 +65,12 @@ Degree :
 
 Academy  project :
 
-title : Kiddo shield
-duration : 3 months
-git repo : https://github.com/TejalThakare/FinalProject
-project desc :
-select qualification : PG Diploma
+	title : Flavour Feed
+	Duration : 2.5 months
+	git repo : https://github.com/Nilesh-Parit/CDAC_Project/tree/main
+	project desc :
+
+	select qualification : PG-DAC
 
 desc : The system aims to provide parents with a comprehensive platform for managing their child's health, including vaccination scheduling, online consultations, diet planning,information about different disease and online consultation.It includes various features like vaccination slot booking (Parents can schedule vaccination appointments for their children through the online platform) ,reminders,online consulting,health records (Parents and healthcare providers can access and update health records as needed),user-friendly interface, Diet Plan Management.
 
